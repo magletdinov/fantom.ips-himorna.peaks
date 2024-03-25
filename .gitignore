@@ -1,2 +1,5 @@
 data/himorna_peaks/Himorna_all_peaks_with_correlations_ensembl_id.tsv.gz
 data/rnaseq_res_ips/EdgeR.table.all.target.tsv.gz
+preprocessing/himorna_index/*
+preprocessing/ips_deg_index/*
+preprocessing/matrices/*
