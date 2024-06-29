@@ -4,8 +4,3 @@ data/rnaseq_res_fibro/DESeq2_genes_ASO_all.tsv.gz
 preprocessing/*
 
 !.gitkeep
-data/himorna_peaks/Himorna_all_peaks_with_correlations_ensembl_id_sample_0.01_.tsv.gz
-preprocessing/*_matrices/*
-preprocessing/*_fisher_exact_test/*
-preprocessing/images/*
-preprocessing/*_info/*
