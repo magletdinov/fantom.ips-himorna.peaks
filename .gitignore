@@ -1,4 +1,5 @@
 data/himorna_peaks/*
+data/methylation_peaks/*
 data/rnaseq_res_ips/EdgeR.table.all.target.tsv.gz
 data/rnaseq_res_fibro/DESeq2_genes_ASO_all.tsv.gz
 preprocessing/himorna_genes_sign/*
