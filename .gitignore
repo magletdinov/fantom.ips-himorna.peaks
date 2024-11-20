@@ -1,4 +1,4 @@
-data/himorna_peaks/*
+data/himorna_peaks*/*
 data/methylation_peaks/*
 data/rnaseq_res_ips/EdgeR.table.all.target.tsv.gz
 data/rnaseq_res_fibro/DESeq2_genes_ASO_all.tsv.gz
@@ -7,7 +7,7 @@ preprocessing/*index/*
 
 !.gitkeep
 !data/himorna_peaks/Himorna_all_peaks_with_correlations_ensembl_id_sample_0.01_.tsv.gz
-!preprocessing/*_matrices/*
-!preprocessing/*_fisher_exact_test/*
-!preprocessing/images/*
-!preprocessing/*_info/*
+!preprocessing/*_matrices*/*
+!preprocessing/*_fisher_exact_test*/*
+!preprocessing/images*/*
+!preprocessing/*_info*/*
